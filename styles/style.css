@@ -208,7 +208,7 @@ h4.content__section-list-item-title {
   object-position: center;
 }
 
-.footer{
+.footer {
   position: relative;
   block-size: 100vh;
   min-block-size: 668px;
@@ -296,7 +296,7 @@ h4.content__section-list-item-title {
     flex-direction: row;
     padding-block-start: var(--padding-page);
   }
-  .content__section:nth-child(even) .content__section-list{
+  .content__section:nth-child(even) .content__section-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(314px, 1fr));
     gap: 20px;
