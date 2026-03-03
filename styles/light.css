@@ -11,6 +11,7 @@
   */
   --main-color: #353430;
   --bg-img: url('../images/cover-image-light.png');
+  --bg-color: #FFE6FF;
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
   --accent-text-color: #353430;
@@ -32,6 +33,7 @@
   --content-text: #353430;
   --section-title: #353430;
   --border-color: #353430;
+  --border-hover-color: rgb(50 49 45/ 0.4);
   }
 }
 
