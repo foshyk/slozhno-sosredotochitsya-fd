@@ -11,7 +11,7 @@
   */
   --main-color: #353430;
   --bg-img: url('../images/cover-image-light.png');
-  --bg-color: #FFE6FF;
+  --bg-color: #FFF1F7;
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
   --accent-text-color: #353430;
@@ -26,6 +26,7 @@
   :root {
   --main-color: #353430;
   --bg-img: url('../images/cover-image-light.png');
+  --bg-color: #FFF1F7;
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
   --accent-text-color: #353430;

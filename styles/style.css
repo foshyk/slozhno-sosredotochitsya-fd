@@ -250,7 +250,7 @@ h4.content__section-list-item-title {
   .add-margin {
     margin-block: 60px;
   }
-  .add-grid-column {
+  .add-visual-grid {
     display: grid;
     grid-template-columns: 236px 1fr;
     gap: 20px;
@@ -301,10 +301,10 @@ h4.content__section-list-item-title {
     flex-direction: row;
     padding-block-start: var(--padding-page);
   }
-  .add-grid-column {
+  .add-visual-grid {
     grid-template-columns: 315px 1fr;
   }
-  .add-grid-row .content__section-list {
+  .add-visual-grid-direction .content__section-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(314px, 1fr));
     gap: 20px;
